@@ -14,7 +14,7 @@
 
     <section>
         <div style="margin-left:400px">
-            <form actions="">
+            <form actions="" method="">
                 <div>
                 <label for=""> Name</label>
                 <br>
